@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Monthly  Attendance" max_length="40" name="x_145990_timesheet_monthly_attendance" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Company Name" max_length="40" name="company_name" type="string"/>
+        <element label="Employee ID" max_length="40" name="employee_id" type="string"/>
+        <element label="Employee Name" max_length="32" name="employee_name" reference="sys_user" type="reference"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Month" max_length="40" name="month" type="string"/>
+        <element label="No Of Days" max_length="40" name="no_of_days" type="string"/>
+        <element label="No Of working hours" max_length="40" name="no_of_working_hours" type="string"/>
+        <element label="Year" max_length="40" name="year" type="string"/>
+        <index name="index">
+            <element name="employee_name"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

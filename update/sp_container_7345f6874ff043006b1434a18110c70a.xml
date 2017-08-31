@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Time sheet - Test Page - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="time_sheet">7745f6874ff043006b1434a18110c708</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 05:54:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7345f6874ff043006b1434a18110c70a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Time sheet - Test Page - Container 1</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sp_container_7345f6874ff043006b1434a18110c70a</sys_update_name>
+        <sys_updated_by>mahendran.e</sys_updated_by>
+        <sys_updated_on>2017-08-30 09:46:57</sys_updated_on>
+        <title/>
+        <width>container-fluid</width>
+    </sp_container>
+</record_update>

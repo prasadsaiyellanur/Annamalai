@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_145990_timesheet_employee_type</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>melvin.v</sys_created_by>
+        <sys_created_on>2017-08-30 11:30:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>bf22c0974fb443006b1434a18110c7d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_145990_timesheet_employee_type</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_bf22c0974fb443006b1434a18110c7d3</sys_update_name>
+        <sys_updated_by>melvin.v</sys_updated_by>
+        <sys_updated_on>2017-08-30 11:30:43</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

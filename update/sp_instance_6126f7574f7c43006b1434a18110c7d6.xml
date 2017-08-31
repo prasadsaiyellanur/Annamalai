@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">3b45f6874ff043006b1434a18110c70d</sp_column>
+        <sp_widget display_value="Time sheet">f745f6474ff043006b1434a18110c70a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-31 05:16:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6126f7574f7c43006b1434a18110c7d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sp_instance_6126f7574f7c43006b1434a18110c7d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 05:16:37</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+</record_update>

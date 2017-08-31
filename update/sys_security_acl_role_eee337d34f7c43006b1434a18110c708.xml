@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>annamalai.b</sys_created_by>
+        <sys_created_on>2017-08-31 05:06:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>eee337d34f7c43006b1434a18110c708</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_145990_timesheet_leave_entry.x_145990_timesheet.leave_entry_user</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_security_acl display_value="x_145990_timesheet_leave_entry">a6e337d34f7c43006b1434a18110c706</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eee337d34f7c43006b1434a18110c708</sys_update_name>
+        <sys_updated_by>annamalai.b</sys_updated_by>
+        <sys_updated_on>2017-08-31 05:06:52</sys_updated_on>
+        <sys_user_role display_value="x_145990_timesheet.leave_entry_user" name="x_145990_timesheet.leave_entry_user">5ee33f934f7c43006b1434a18110c7da</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

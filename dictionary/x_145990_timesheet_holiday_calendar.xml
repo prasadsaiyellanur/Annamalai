@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Holiday Calendar" max_length="40" name="x_145990_timesheet_holiday_calendar" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Leave Type" max_length="40" name="leave_type" type="string"/>
+        <element label="Month" max_length="40" name="month" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Year" max_length="40" name="year" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Employee type</name>
+        <order/>
+        <roles>x_145990_timesheet.employee_type_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>melvin.v</sys_created_by>
+        <sys_created_on>2017-08-30 11:30:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2f22c0974fb443006b1434a18110c78d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sys_ui_application_2f22c0974fb443006b1434a18110c78d</sys_update_name>
+        <sys_updated_by>melvin.v</sys_updated_by>
+        <sys_updated_on>2017-08-30 11:30:43</sys_updated_on>
+    </sys_ui_application>
+</record_update>

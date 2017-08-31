@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_dependency">
+    <sp_dependency action="INSERT_OR_UPDATE">
+        <module/>
+        <name>date picker</name>
+        <page_load>true</page_load>
+        <sp_portals>d5b727c74f7443006b1434a18110c7f6</sp_portals>
+        <sys_class_name>sp_dependency</sys_class_name>
+        <sys_created_by>mahendran.e</sys_created_by>
+        <sys_created_on>2017-08-30 09:38:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2a68e7c74f7443006b1434a18110c747</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>date picker</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sp_dependency_2a68e7c74f7443006b1434a18110c747</sys_update_name>
+        <sys_updated_by>mahendran.e</sys_updated_by>
+        <sys_updated_on>2017-08-30 09:38:32</sys_updated_on>
+    </sp_dependency>
+</record_update>

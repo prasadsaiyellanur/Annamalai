@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <client_script><![CDATA[function()
+{
+	var c= this;
+	
+}
+
+
+
+]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.cont{
+  width:100%;
+  height:470px;
+    //border:2px solid blue;
+}
+.cal{
+  width:64.5%;
+  //float:right;
+  height:100%;
+  //border:1px solid red;
+}
+.form{
+  width:34%;
+  margin-right:1%;
+  height:100%;
+  float:right;
+  //border:1px solid green
+}
+.pan{
+  margin:20px;
+  text-align:center;
+  padding:4px 0px;
+  font-size:17px;
+  width:100%;
+  height:30px;
+   background:#F44336;
+  color:#FFFFFF;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+ 
+#datepicker{
+  width:180px; 
+  margin: 0 20px 20px 20px;
+}
+#datepicker &gt; span:hover{cursor: pointer;}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>time_sheet</id>
+        <internal>false</internal>
+        <link/>
+        <name>Time sheet</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-30 05:54:51</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f745f6474ff043006b1434a18110c70a</sys_id>
+        <sys_mod_count>106</sys_mod_count>
+        <sys_name>Time sheet</sys_name>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sp_widget_f745f6474ff043006b1434a18110c70a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-31 05:16:17</sys_updated_on>
+        <template><![CDATA[ <div class="cont">
+<div class="form">
+  
+  <nav class="pan"> Time Sheet Editor</nav>
+     <div class='input-group date' id='datetimepicker'>
+                <input type='text' class="form-control"   readonly/>
+                <SpAn class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar">
+                    </span>
+                </span>
+            </div>
+        
+    <script type="text/javascript">
+    $(function() {
+    // Bootstrap DateTimePicker v3
+    $('#datetimepicker').datetimepicker({
+      pickTime: false
+    });
+    // Bootstrap DateTimePicker v4
+    $('#datetimepicker').datetimepicker({
+     
+      format: 'DD-MM-YYYY'
+    });
+  });
+    </script>
+ 
+
+  
+</div>
+ <div class="cal">
+   
+   
+   
+ </div>
+   
+
+  
+</div>
+ ]]></template>
+    </sp_widget>
+</record_update>

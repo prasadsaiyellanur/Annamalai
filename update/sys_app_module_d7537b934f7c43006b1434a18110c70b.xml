@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="LMS">0fc4c8d74fb443006b1434a18110c7b7</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Leave Types</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_145990_timesheet_leave_type</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_145990_timesheet.leave_type_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>melvin.v</sys_created_by>
+        <sys_created_on>2017-08-31 05:04:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7537b934f7c43006b1434a18110c70b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Leave Types</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TimeSheet and LMS" source="x_145990_timesheet">6ee4b2874ff043006b1434a18110c78d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TimeSheet and LMS">6ee4b2874ff043006b1434a18110c78d</sys_scope>
+        <sys_update_name>sys_app_module_d7537b934f7c43006b1434a18110c70b</sys_update_name>
+        <sys_updated_by>melvin.v</sys_updated_by>
+        <sys_updated_on>2017-08-31 05:04:27</sys_updated_on>
+        <timeline_page/>
+        <title>Leave Types</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
